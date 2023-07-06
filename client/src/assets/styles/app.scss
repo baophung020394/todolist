@@ -1,0 +1,48 @@
+$bg-color: 'transparent';
+/*
+* VARIABLES COLORS
+*/
+$primary-color: '#000000';
+$secondary-color: '#2B76FF';
+$heading-color: '';
+$placeholder-color: '#F6F6F6';
+$border-color: '#F6F6F6';
+
+/*
+* VARIABLES FONTS
+*/
+$font-10: '10px';
+$font-12: '12px';
+$font-14: '14px';
+$font-16: '16px';
+$font-18: '18px';
+$font-20: '20px';
+$font-24: '24px';
+$font-32: '32px';
+$font-40: '40px';
+$font-44: '44px';
+$font-52: '52px';
+$font-56: '56px';
+$font-60: '60px';
+$font-72: '72px';
+
+body {
+  background: $bg-color;
+}
+
+/*
+* Elements
+*/
+button,
+a,
+p,
+span,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Poppins', sans-serif !important;
+}
